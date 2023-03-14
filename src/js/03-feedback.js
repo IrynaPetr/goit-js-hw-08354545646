@@ -14,4 +14,4 @@ const emailEl = document.querySelector('input');
 const messageEl = document.querySelector('textarea');
 const feedbackFormEl = document.querySelector('form.feedback-form');
 const submitEl = document.querySelector('button');
-const STORAGE_KAY = 
+const STORAGE_KAY = 'feedback-form-state'
